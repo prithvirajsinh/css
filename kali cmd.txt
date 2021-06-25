@@ -1,0 +1,12 @@
+whereis
+which
+find / -type f -name apache2
+dig hacker-arise ns
+
+top || head
+less || more || tail
+
+lsblk
+locate rsyslog
+modprobe --> add or remove the module
+-->  crontab tutorials
